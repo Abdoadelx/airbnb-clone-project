@@ -16,7 +16,3 @@ The Airbnb Clone Project is a full-stack web application that simulates a bookin
 - **API**: REST + GraphQL
 - **Version Control**: Git & GitHub
 - **CI/CD & Deployment**: GitHub Actions, Docker (planned)
-
-## Project Status
-Initialization: repository created and README added.
-# airbnb-clone-project
